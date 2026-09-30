@@ -10,6 +10,7 @@ Full assignment (due date, Part 1, rubric): HW0 on Canvas. Step-by-step setup: t
   ```
   (🪟 Windows: `python hw0/hello.py`)
 - `day1.md`: **your Day 1 snapshot (HW0 Part 2).** The questions are already in it. Open it, fill in your answers, and put your screenshot(s) in this folder.
+- `ai_log.md`: **your AI log from Class 1 (HW0 Part 1).** Fill in your plan, sketch photo, prediction, and each prompt.
 - `python-version.png`: **you add this.** A screenshot of your terminal showing `python3 --version` (3.12 or higher).
 
 ## When you're done
@@ -20,6 +21,6 @@ git commit -m "Add Day 1 snapshot"
 git push
 ```
 
-Refresh your repo on GitHub and check that your answers show up in `hw0/day1.md`. Then submit your **commit link** on Canvas (steps in the README at the top of this repo).
+Refresh your repo on GitHub and check that your answers show up in `hw0/day1.md` and `hw0/ai_log.md`. Then submit your **commit link** on Canvas (steps in the README at the top of this repo).
 
 Stuck? Post in `#help` on Slack with a screenshot of the error.

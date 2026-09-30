@@ -5,16 +5,9 @@ Write your own, even if you worked in a pair. Keep it: we come back to it at mid
 **Name:**
 **Partner (if any):**
 
-## 1. My prompts and what the AI made
+## 1. What the AI made
 
-Paste every prompt you used, in order.
-
-```
-Prompt 1:
-
-Prompt 2:
-
-```
+(Your prompts go in `ai_log.md`, not here.)
 
 Screenshot of what the AI made (put the image in this `hw0` folder, then change the filename below to match):
 
