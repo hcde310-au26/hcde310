@@ -10,7 +10,7 @@ Full assignment (due date, Part 1, rubric): HW0 on Canvas. Step-by-step setup: t
   ```
   (🪟 Windows: `python hw0/hello.py`)
 - `day1.md`: **your Day 1 snapshot (HW0 Part 2).** The questions are already in it. Open it, fill in your answers, and put your screenshot(s) in this folder.
-- `ai_log.md`: **your AI log from Class 1 (HW0 Part 1).** Fill in your plan, sketch photo, prediction, and each prompt.
+- `ai_log.md`: **your AI log from Class 1 (HW0 Part 1).** Paste in every prompt you sent and the AI's replies.
 - `python-version.png`: **you add this.** A screenshot of your terminal showing `python3 --version` (3.12 or higher).
 
 ## When you're done

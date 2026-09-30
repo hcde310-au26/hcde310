@@ -2,60 +2,28 @@
 
 ## HW0: Class 1, build an app with AI
 
-Write your own log, even if you worked in a pair.
+Paste every prompt you sent, in order, with the AI's replies. A share link to the chat is fine too, but paste the prompts here either way. Your thinking about it goes in `day1.md`.
 
-**Name:**
-**Partner (if any):**
+**Share link (optional):**
 
-### Our plan (before prompting)
+### Prompt 1
 
-**Audience and goal:** It's for ___ who want to ___.
+```
+(paste your prompt)
+```
 
-**"The user can..." sentences:**
-1.
-2.
+**AI's reply:**
 
-Photo of our sketch (put the image in this `hw0` folder, then change the filename below to match):
+(paste the reply)
 
-![sketch](sketch.jpg)
+### Prompt 2
 
-**Our prediction:** We expect the app will...
+```
+(paste your prompt)
+```
 
-### Sketch vs. app
+**AI's reply:**
 
-- **Matches our sketch:**
-- **Different from our sketch:**
-- **The AI decided** (something we never said):
+(paste the reply)
 
-### Prompts
-
-Copy this block for each prompt, in order.
-
-#### Prompt 1
-
-- **What we asked:**
-
-  ```
-  (paste the prompt)
-  ```
-
-- **What we expected:**
-- **What we got:**
-- **What I would keep, change, or reject, and why:**
-
-#### Prompt 2
-
-- **What we asked:**
-
-  ```
-  (paste the prompt)
-  ```
-
-- **What we expected:**
-- **What we got:**
-- **What I would keep, change, or reject, and why:**
-
-### Explain back
-
-Pick one part of the code. In your own words, what does it do?
-
+(Copy the block above for more prompts.)
